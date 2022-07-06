@@ -5,9 +5,9 @@ Hey! I´m Marina, but you can call me 'Nina' 😊👋
 - 📍 Blumenau, Santa Catarina, Brazil
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/ninamacedos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ninamacedosi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninamacedos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
